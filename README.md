@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Vadim Mirvald
+# 👋 Hi, I'm Vadym
 
 I'm a Product UI/UX designer with over 4 years of experience, combining a passion for minimalism and creating design systems. My primary specialization is product design, but I also possess Python development skills and basic knowledge of frontend and backend technologies.
 
