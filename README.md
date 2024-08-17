@@ -23,7 +23,7 @@ HTML | CSS | Python (Aiohttp, FastAPI, Flask) | PostgreSQL | MongoDB | Git | Doc
 
 ## 📫 Get in Touch
 - Email: mirvald.vadim@icloud.com
-- Telegram: @mirvald
+- Telegram: @mirvaId
 
 ---
 From pixel-perfect designs to functional back-ends, I'm here to bring your ideas to life with both style and functionality.
